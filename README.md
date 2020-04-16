@@ -6,5 +6,6 @@ Any reader who is interested in this project is welcomed to contact with the aut
 
 Here is the author's contact information: 
 
-Shun-Ren Yang 
-sryang@cs.nthu.edu.tw
+> Shun-Ren Yang 
+
+> sryang@cs.nthu.edu.tw
